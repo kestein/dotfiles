@@ -1,4 +1,4 @@
 # dotfiles
 Dotfiles
 
-Syncing
+Syncing vim and bach stuff
